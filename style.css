@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+header{
+    background-color: white;
+    height: 100px;
+}   
+.demo{
+    display: inline-block;
+    vertical-align: top;
+    line-height: 100px;
+}
+.home{
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 90px;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+    line-height: 100px;
+    text-align: center;
+}
+#more{
+    background-image: url("https://pogodnik.com/wp-content/uploads/2022/09/wave.webp");
+    width: 1345px;
+    height: 600px;
+    background-size: cover;
+}
+
+#bir{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 0 auto;
+    padding-top: 200px;
+    text-align: center;
+}
+span{
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+}
+#Read{
+    width: 150px;
+    height: 40px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius:4px;
+}
+#Download{
+    width: 200px;
+    height: 40px;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    border-radius: 4px;
+}
+h2{
+    font-size: 30px;
+    color: white;
+}
+section img{
+    height: 300px;
+    width: 500px;
+    margin-left: 280px;
+    object-fit: cover;
+}
+#book{
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+    background-color:beige ;
+}
+#lorem{
+    display: inline-block;
+    text-align:left ;
+    margin-left: 600px;
+}
+#one{
+    height: 300px;
+    width: 450px;
+    margin-left: 650px;
+    object-fit: cover;
+}
+#three{
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+}
+#four{
+    display: inline-block;
+    text-align:left ;
+    margin-left: 180px;
+}
+#doqquz{
+    background-color: beige;
+}
+#on{
+    background-color: blanchedalmond;
+}
